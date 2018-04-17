@@ -16,6 +16,7 @@ public class Practica1 {
         resta = num1 - num2;
         
         JOptionPane.showMessageDialog(null, "Suma " + sum + " resta " + resta);
+        //HOLA ESTO ES UN COMENT
     }
     
 }
